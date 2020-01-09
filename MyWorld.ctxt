@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\r\n\ The\ scenario\ for\ the\ game.\ It\ should\ be\ initialized\ to\ contain\:\r\n\ \ \ *\ a\ scoreboard\ at\ the\ top\ of\ the\ scenario\r\n\ \ \ *\ a\ player\ in\ the\ middle\ of\ the\ scenario\r\n\ \ \ *\ 20\ robot\ chasers\ in\ random\ locations\r\n\ \r\n\ @author\ A\r\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=ScoreBoard\ getScoreBoard()
+comment3.params=
+comment3.target=Runner\ getRunner()
+comment4.params=
+comment4.target=Chaser\ getChaser()
+comment5.params=
+comment5.target=void\ Keydown()
+comment6.params=
+comment6.target=void\ act()
+comment6.text=\r\n\ Act\ -\ do\ whatever\ the\ Chaser\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=7

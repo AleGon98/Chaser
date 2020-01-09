@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Runner
+comment0.text=\r\n\ The\ Runner\ class\ represents\ the\ "player"\ in\ the\ game.\ A\ player\r\n\ is\ killed\ (ending\ the\ current\ game)\ when\ they\ are\ in\ the\ same\r\n\ grid\ square\ as\ a\ Chaser\ (robot)\ or\ an\ explosion.\ A\ player\ can\r\n\ also\ move\ by\ pressing\ one\ of\ the\ arrow\ keys\ or\ by\ pressing\ "t"\ \ \ \ \ \ \ \r\n\ to\ teleport.\ \r\n\r\n\ @author\ SAl\r\n
+comment1.params=
+comment1.target=Runner()
+comment10.params=
+comment10.target=void\ act()
+comment10.text=\r\n\ Act\ -\ do\ whatever\ the\ Explosion\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=boolean\ ifmove()
+comment3.params=
+comment3.target=void\ tpb()
+comment4.params=
+comment4.target=void\ movement()
+comment5.params=
+comment5.target=void\ tkey()
+comment6.params=
+comment6.target=void\ teleport()
+comment7.params=
+comment7.target=void\ resettp()
+comment8.params=
+comment8.target=void\ counter()
+comment9.params=
+comment9.target=void\ score()
+numComments=11

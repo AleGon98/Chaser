@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=ScoreBoard
+comment0.text=\r\n\ The\ ScoreBoard\ class\ for\ project\ 1's\ game.\ \r\n\ \ \ \ \r\n\ \ \ \ Although\ you\ are\ welcome\ to\ modify\ this\ code,\ DOING\ \r\n\ \ \ \ SUCH\ IS\ ***HIGHLY***\ INADVISABLE.\ Everything\ you\ need\r\n\ \ \ \ is\ provided\ through\ the\ public\ interface.\ \r\n\ \r\n\ @author\ Alejandro\ Gonzalez\r\n
+comment1.params=
+comment1.target=ScoreBoard()
+comment1.text=\r\n\ Constructor\ for\ a\ ScoreBoard.\ Gives\ 0\ moves\ made\ and\r\n\ \ \ \ 3\ teleports\ left.\ \r\n
+comment2.params=w
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ redrawImage()
+comment4.params=newValue
+comment4.target=void\ setTeleportsLeft(int)
+comment4.text=\r\n\ Sets\ the\ number\ of\ teleports\ visible.\ \r\n\ @param\ newValue\ is\ the\ new\ number\ of\ teleports\r\n
+comment5.params=
+comment5.target=int\ getTeleportsLeft()
+comment5.text=\r\n\ Gets\ the\ number\ of\ teleports\ visible.\r\n\ @return\ the\ number\ of\ teleports\ displayed\r\n
+comment6.params=newValue
+comment6.target=void\ setMovesMade(int)
+comment6.text=\r\n\ sets\ the\ number\ of\ moves\ made\ visible.\ \r\n\ @param\ newValue\ is\ the\ new\ number\ of\ moves\ made\r\n
+comment7.params=
+comment7.target=int\ getMovesMade()
+comment7.text=\r\n\ Gets\ the\ number\ f\ moves\ made\ as\ displayed\r\n\ @return\ the\ number\ of\ moves\ made\r\n
+numComments=8

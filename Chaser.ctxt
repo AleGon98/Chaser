@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Chaser
+comment0.text=\r\n\ A\ Robot\ for\ the\ game.\ It\ should\ always\ move\ towards\ the\ world's\r\n\ runner\ (player).\ However,\ it\ it\ runs\ into\ another\ robot\ or\ an\ \r\n\ explosion\ it\ should\ turn\ into\ an\ explosion\ and\ then\ disappear.\ \r\n\ \r\n\ @author\ A\r\n
+comment1.params=
+comment1.target=Chaser()
+comment2.params=
+comment2.target=Chaser\ getChaser()
+comment3.params=
+comment3.target=void\ Touch()
+comment4.params=
+comment4.target=void\ movement()
+comment5.params=
+comment5.target=void\ chasertouch()
+comment6.params=
+comment6.target=void\ act()
+comment6.text=\r\n\ Act\ -\ do\ whatever\ the\ Chaser\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=7
